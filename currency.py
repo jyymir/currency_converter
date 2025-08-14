@@ -1,7 +1,7 @@
 import requests
 
 # API Key and the base url to the currency converter website
-API_KEY = 'fca_live_IFrc5Qkr3IYPFqOKO9EAdgkghOmzuntp8Hq02ikP'
+API_KEY = ''
 BASE_URL = f'https://api.freecurrencyapi.com/v1/latest?apikey={API_KEY}'
 
 # List of currencies that can be used
